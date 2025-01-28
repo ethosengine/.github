@@ -22,13 +22,6 @@ This organization houses personal experiments and prototypes in:
 
 This is currently a personal research and development organization. While the vision is ambitious, development is in early experimental phases. Contributions and discussions are welcome, but expect work-in-progress repositories and evolving architectures.
 
-## Related Projects
-
-This work draws inspiration from and may integrate with:
-- [Holochain](https://www.holochain.org/) for P2P coordination
-- [IPFS](https://ipfs.tech/) for content-addressed storage
-- [OrientDB](https://orientdb.org/) for graph relationships
-
 ## Contact
 
 Ideas or questions? Feel free to:
