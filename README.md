@@ -4,7 +4,7 @@ An ambitious personal org exploring digital infrastructure for human flourishing
 
 ## Vision
 
-Ethosengine envisions a future where digital infrastructure serves human needs at a family and community scale. Through distributed computing, trust-based networks, and local-first principles, we're exploring how technology can enhance rather than extract from human relationships and community bonds.
+Ethosengine envisions a future where digital infrastructure serves human needs at a family and community scale. Through distributed computing, trust-based networks, and local-first principles, exploring how technology can enhance rather than extract from human relationships and community bonds.
 
 ## Current Focus
 
