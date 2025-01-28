@@ -34,7 +34,7 @@ Ideas or questions? Feel free to:
 - Open an issue in the relevant repository
 - Start a discussion in the organization's discussion board
 
-### Support Support [Mbd06b](https://github.com/mbd06b)'s Work
+### Support Support [Matthew Dowell's](https://github.com/mbd06b)'s Work
 
 If you find projects here helpful and would like to support my work, you can buy me a coffee! Your support helps me maintain projects.
 
