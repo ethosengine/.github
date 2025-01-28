@@ -2,6 +2,14 @@
 
 An ambitious personal org exploring digital infrastructure for human flourishing through family scale computing.
 
+## Support My Work
+
+If you find projects here helpful and would like to support my work, you can buy me a coffee! Your support helps me maintain projects.
+
+## Buy Me a Coffee
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mbd06b)
+
 ## Vision
 
 Ethosengine envisions a future where digital infrastructure serves human needs at a family and community scale. Through distributed computing, trust-based networks, and local-first principles, exploring how technology can enhance rather than extract from human relationships and community bonds.
