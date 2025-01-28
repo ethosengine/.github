@@ -9,6 +9,7 @@ Ethosengine envisions a future where digital infrastructure serves human needs a
 ## Current Focus
 
 This organization houses personal experiments and prototypes in:
+- Enhanced learning utilities
 - Family-scale compute clusters
 - Trust-based networking
 - Local-first data sovereignty
