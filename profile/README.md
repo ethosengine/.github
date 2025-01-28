@@ -5,9 +5,6 @@ An ambitious personal org exploring digital infrastructure for human flourishing
 ## Support My Work
 
 If you find projects here helpful and would like to support my work, you can buy me a coffee! Your support helps me maintain projects.
-
-## Buy Me a Coffee
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mbd06b)
 
 ## Vision
