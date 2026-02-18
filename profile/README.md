@@ -12,7 +12,7 @@ This organization houses personal experiments and prototypes in:
 - Enhanced learning utilities
 - Family-scale compute clusters
 - Trust-based networking
-- Local-first data stewardship, no-one is self-sovereign
+- Local, and social data stewardship
 - Community resource sharing
 - Sustainable tech practices
 
