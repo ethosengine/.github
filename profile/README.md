@@ -1,6 +1,6 @@
 # Ethosengine
 
-An ambitious personal org exploring digital infrastructure for human flourishing through family scale computing.
+An audaciously ambitious org exploring digital infrastructure for human flourishing through family scale computing.
 
 ## Vision
 
@@ -15,12 +15,13 @@ This organization houses personal experiments and prototypes in:
 - Local, and social data stewardship
 - Community resource sharing
 - Sustainable tech practices
+- Mutual Aid and Credit neworks
 
 ## Status
 
-🚧 **Early Exploration Stage** 🚧
+🚧 **AI Bootstrapping Stage** 🚧
 
-This is currently a personal research and development organization. While the vision is ambitious, development is in early experimental phases. Contributions and discussions are welcome, but expect work-in-progress repositories and evolving architectures.
+This is currently a research and development organization. Development of the vision is being facilitated by frontier AI, continuously with CI/CD on homelab infra. Contributions and discussions are welcome, but expect work-in-progress repositories and evolving architectures.  
 
 ## Contact
 
