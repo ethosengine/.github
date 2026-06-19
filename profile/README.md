@@ -21,7 +21,7 @@ This organization houses personal experiments and prototypes in:
 
 🚧 **AI Bootstrapping Stage** 🚧
 
-This is currently a research and development organization. Development of the vision is being facilitated by frontier AI, continuously with CI/CD on homelab infra. Contributions and discussions are welcome, but expect work-in-progress repositories and evolving architectures.  
+This is currently a research and development organization. Development of the vision is being facilitated by frontier AI integrating and deploying continuously with homelab infra. Contributions and discussions are welcome, but expect work-in-progress repositories and evolving architectures.  
 
 ## Contact
 
